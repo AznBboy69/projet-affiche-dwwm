@@ -30,9 +30,8 @@ En effet, étant donné que vous allez récupérer le projet de mon GitHub perso
 
 **Méthode 2 (fork du projet) :**
 
-> <br>Un fork est une copie d'un projet à un instant T sur laquelle on pourra travailler sans affecter le projet initial. L'action de fork vient créer un nouveau repository (ou dépôt) dans votre compte GitHub avec tout le contenu du repository que vous avez fork.
-> <br>*Lien utile : https://git-scm.com/book/fr/v2/GitHub-Contribution-%C3%A0-un-projet*
-> <br>
+> Un fork est une copie d'un projet à un instant T sur laquelle on pourra travailler sans affecter le projet initial. L'action de fork vient créer un nouveau repository (ou dépôt) dans votre compte GitHub avec tout le contenu du repository que vous avez fork.
+> *Lien utile : https://git-scm.com/book/fr/v2/GitHub-Contribution-%C3%A0-un-projet*
 
 1. Sur ce dépôt distant, en haut à droite cliquer sur le bouton fork
 2. Cliquer sur `Create a new fork`
@@ -56,8 +55,7 @@ En effet, étant donné que vous allez récupérer le projet de mon GitHub perso
 9. Votre dépôt local n'est plus lié avec un dépôt distant. Il faut donc faire un `git remote add origin` suivi de l'URL du dépôt nouvellement créé sur votre compte GitHub à l'étape précédente.
 10. Transférer le contenu du dépôt local sur le nouveau dépôt distant avec la commande `git push origin master` (Attention : la branche `master` peut parfois s'appeler `main`, bien vérifier dans le bash git le nom de la branche)
 
-> <br>Lien complémentaire : https://www.kitpages.fr/fr/cms/155/changement-de-remote-git
-> <br>
+> *Lien complémentaire : https://www.kitpages.fr/fr/cms/155/changement-de-remote-git*
 
 ## Starters
 
