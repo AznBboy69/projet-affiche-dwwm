@@ -1,6 +1,6 @@
 # Projet Affiche
 ---
-<img src="https://www.imprimerie.lyon.fr/themes/custom/micg/logo/logo_footer.svg">
+<img src="logo.svg">
 
 ## Contexte
 
@@ -10,6 +10,8 @@ La promotion Concepteur Designer UI (CDUI) a conçu des affiches pour un événe
 
 3 solutions s'offrent à vous. 
 En effet, étant donné que vous allez récupérer le projet de mon GitHub personnel, si vous voulez enregistrer vos modifications sur votre GitHub vous allez avoir un soucis vu que le projet sera relié à mon compte GitHub ! 
+
+<br>
 
 **Méthode 1 :**
 
@@ -24,6 +26,8 @@ En effet, étant donné que vous allez récupérer le projet de mon GitHub perso
 9. Coller tout ça dans votre nouveau dépôt que vous venez de cloner
 10. Voilà maintenant vous pouvez travailler et faire des commit sur votre propre dépôt git !
 
+<br>
+
 **Méthode 2 (fork du projet) :**
 
 > <br>Un fork est une copie d'un projet à un instant T sur laquelle on pourra travailler sans affecter le projet initial. L'action de fork vient créer un nouveau repository (ou dépôt) dans votre compte GitHub avec tout le contenu du repository que vous avez fork.
@@ -36,6 +40,8 @@ En effet, étant donné que vous allez récupérer le projet de mon GitHub perso
 4. Cliquer sur `Create fork`, vous avez maintenant fait une copie de mon dépôt sur votre compte GitHub
 5. En local dans votre dossier `Projets`, ouvrir un bash git et rentrer la commande `git clone` suivi de l'URL du repository que vous venez de fork (celui sur votre compte, pas le dépôt initial que j'ai créé)
 6. Voilà maintenant vous pouvez travailler et faire des commit de votre travail !
+
+<br>
 
 **Méthode 3 (changement du git remote) :**
 
