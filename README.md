@@ -16,6 +16,17 @@
 
 La promotion Concepteur Designer UI (CDUI) a conçu des affiches pour un événement fictif. Les développeurs ont chacun choisit une affiche pour leur faire prendre vie en HTML/CSS et en utilisant JavaScript pour ajouter du dynamisme et de l'interaction.
 
+## Les starters
+
+Pour vous aider, j'ai créé plusieurs dossier starter suivant quelles technologies vous souhaitez utiliser dans votre projet.
+Sachant que SASS est installé dans tous les projets.
+Un README se trouve dans chaque starter pour démarrer le projet.
+
+**basic-starter**: Faire du HTML/CSS/JS
+**gsap-starter**: Faire du HTML/CSS/JS agrémenté de la librairie GSAP pour faire de l'animation
+**jquery-starter**: Faire du HTML/CSS/JS agrémenté de la librairie jQuery pour faire de l'animation
+**threejs-starter**: Faire du HTML/CSS/JS agrémenté de la librairie Three.js pour faire de l'animation (notamment 3D)
+
 ## Récupérer le projet
 
 3 solutions s'offrent à vous. 
@@ -66,17 +77,6 @@ En effet, étant donné que vous allez récupérer le projet de mon GitHub perso
 10. Transférer le contenu du dépôt local sur le nouveau dépôt distant avec la commande `git push origin master` (Attention : la branche `master` peut parfois s'appeler `main`, bien vérifier dans le bash git le nom de la branche)
 
 > *Lien complémentaire : https://www.kitpages.fr/fr/cms/155/changement-de-remote-git*
-
-## Les starters
-
-Pour vous aider, j'ai créé plusieurs dossier starter suivant quelles technologies vous souhaitez utiliser dans votre projet.
-Sachant que SASS est installé dans tous les projets.
-Un README se trouve dans chaque starter pour démarrer le projet.
-
-**basic-starter**: Faire du HTML/CSS/JS
-**gsap-starter**: Faire du HTML/CSS/JS agrémenté de la librairie GSAP pour faire de l'animation
-**jquery-starter**: Faire du HTML/CSS/JS agrémenté de la librairie jQuery pour faire de l'animation
-**threejs-starter**: Faire du HTML/CSS/JS agrémenté de la librairie Three.js pour faire de l'animation (notamment 3D)
 
 ## Déroulement du projet
 
