@@ -22,10 +22,10 @@ Pour vous aider, j'ai créé plusieurs dossier starter suivant quelles technolog
 Sachant que SASS est installé dans tous les projets.
 Un README se trouve dans chaque starter pour démarrer le projet.
 
-**basic-starter**: Faire du HTML/CSS/JS
-**gsap-starter**: Faire du HTML/CSS/JS agrémenté de la librairie GSAP pour faire de l'animation
-**jquery-starter**: Faire du HTML/CSS/JS agrémenté de la librairie jQuery pour faire de l'animation
-**threejs-starter**: Faire du HTML/CSS/JS agrémenté de la librairie Three.js pour faire de l'animation (notamment 3D)
+- **basic-starter**: Faire du HTML/CSS/JS
+- **gsap-starter**: Faire du HTML/CSS/JS agrémenté de la librairie GSAP pour faire de l'animation
+- **jquery-starter**: Faire du HTML/CSS/JS agrémenté de la librairie jQuery pour faire de l'animation
+- **threejs-starter**: Faire du HTML/CSS/JS agrémenté de la librairie Three.js pour faire de l'animation (notamment 3D)
 
 ## Récupérer le projet
 
