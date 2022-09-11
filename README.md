@@ -2,6 +2,13 @@
 ---
 <img src="logo.svg">
 
+## Objectifs
+
+- Prendre en main une architecture de projet se rapprochant de la réalité que vous verrez en entreprise
+- Retour sur HTML/CSS/SASS
+- Approfondissement des connaissances JS vues jusqu'à présent
+- Expérimentation des animations en CSS et en JS, pouvant être agrémentée d'une librairie externes en JS
+
 ## Contexte
 
 La promotion Concepteur Designer UI (CDUI) a conçu des affiches pour un événement fictif. Les développeurs ont chacun choisit une affiche pour leur faire prendre vie en HTML/CSS et en utilisant JavaScript pour ajouter du dynamisme et de l'interaction.
