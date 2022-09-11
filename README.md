@@ -1,6 +1,6 @@
 # Projet Affiche
 ---
-<img src="logo.svg">
+<img src="logo.svg" style="background-color:white;padding:20px;margin:20px 0 20px 50%;transform:translateX(-50%);">
 
 ## Objectifs
 
@@ -64,16 +64,16 @@ En effet, étant donné que vous allez récupérer le projet de mon GitHub perso
 
 > *Lien complémentaire : https://www.kitpages.fr/fr/cms/155/changement-de-remote-git*
 
-## Starters
+## Les starters
 
-Pour vous aider j'ai créé plusieurs dossier starter suivant quelles technologies vous souhaitez utiliser dans votre projet.
+Pour vous aider, j'ai créé plusieurs dossier starter suivant quelles technologies vous souhaitez utiliser dans votre projet.
 Sachant que SASS est installé dans tous les projets.
 Un README se trouve dans chaque starter pour démarrer le projet.
 
 **basic-starter**: Faire du HTML/CSS/JS
 **gsap-starter**: Faire du HTML/CSS/JS agrémenté de la librairie GSAP pour faire de l'animation
 **jquery-starter**: Faire du HTML/CSS/JS agrémenté de la librairie jQuery pour faire de l'animation
-**three-starter**: Faire du HTML/CSS/JS agrémenté de la librairie Three.js pour faire de l'animation (notamment 3D)
+**threejs-starter**: Faire du HTML/CSS/JS agrémenté de la librairie Three.js pour faire de l'animation (notamment 3D)
 
 ## Déroulement du projet
 
@@ -91,6 +91,17 @@ Pour le JS, plusieurs solutions s'offrent à vous et se fera aussi suivant la te
 Dans tous les cas, il faudra veiller à la structure du code.
 
 > Ne pas hésiter à communiquer entre vous (Slack, Discord, visio...) et avec votre graphiste. Faire des points réguliers avec lui/elle vous permettra de voir si il/elle peut vous apporter un avis extérieur et savoir si vous allez dans la bonne direction.
+
+## Exemples d'animations et tutoriels
+
+- https://fr.javascript.info/js-animation
+- https://developer.mozilla.org/fr/docs/Web/API/Canvas_API/Tutorial/Basic_animations
+- https://www.barbuduweb.com/16-facons-animer-textes-css3-javascript/
+- https://freefrontend.com/css-animation-examples/
+- https://blog.hubspot.fr/website/animation-css
+- https://web-eau.net/blog/15-animations-css-vraiment-bluffantes
+- https://webdesign.tutsplus.com/fr/articles/10-examples-of-animation-on-codepen-you-can-learn-from--cms-28244
+- https://www.webdesignertrends.com/2019/01/effets-javascript-css-animations/
 
 ## Bonus
 
