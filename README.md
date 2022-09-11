@@ -1,6 +1,16 @@
 # Projet Affiche
 ---
-<img src="logo.svg" style="background-color:white;padding:20px;margin:20px 0 20px 50%;transform:translateX(-50%);">
+
+<style>
+    img {
+        background-color: white;
+        padding: 20px;
+        margin: 20px 0 20px 50%;
+        transform: translateX(-50%);
+    }
+</style>
+
+<img src="logo.svg">
 
 ## Objectifs
 
