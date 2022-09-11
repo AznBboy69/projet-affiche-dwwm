@@ -83,6 +83,8 @@ Pour le JS, plusieurs solutions s'offrent à vous et se fera aussi suivant la te
 
 Dans tous les cas, il faudra veiller à la structure du code.
 
+> Ne pas hésiter à communiquer entre vous (Slack, Discord, visio...) et avec votre graphiste. Faire des points réguliers avec lui/elle vous permettra de voir si il/elle peut vous apporter un avis extérieur et savoir si vous allez dans la bonne direction.
+
 ## Bonus
 
 - Refaire le logo du musée en HTML/CSS
