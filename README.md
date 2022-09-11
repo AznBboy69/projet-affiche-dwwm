@@ -10,7 +10,7 @@
 - Prendre en main une architecture de projet se rapprochant de la réalité que vous verrez en entreprise
 - Retour sur HTML/CSS/SASS
 - Approfondissement des connaissances JS vues jusqu'à présent
-- Expérimentation des animations en CSS et en JS, pouvant être agrémentée d'une librairie externes en JS
+- Expérimentation des animations en CSS et en JS, pouvant être agrémentée d'une librairie externe en JS
 
 ## Contexte
 
@@ -18,7 +18,7 @@ La promotion Concepteur Designer UI (CDUI) a conçu des affiches pour un événe
 
 ## Les starters
 
-Pour vous aider, j'ai créé plusieurs dossier starter suivant quelles technologies vous souhaitez utiliser dans votre projet.
+Pour vous aider, j'ai créé plusieurs dossiers starter suivant quelles technologies vous souhaitez utiliser dans votre projet.
 Sachant que SASS est installé dans tous les projets.
 Un README se trouve dans chaque starter pour démarrer le projet.
 
