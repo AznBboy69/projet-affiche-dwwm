@@ -45,7 +45,7 @@ En effet, étant donné que vous allez récupérer le projet de mon GitHub perso
 7. Vous venez de récupérer le projet sur lequel vous allez pouvoir travailler. En soit, vous pouvez commencer à travailler from scratch mais je vous ai aidé avec des starters
 8. Revenir dans le dossier `projet-affiche-dwwm` (le mien, pas le votre), choisir le dossier starter qui vous convient et copier les fichiers et dossiers qu'il contient
 9. Coller tout ça dans votre nouveau dépôt que vous venez de cloner
-10. Voilà maintenant vous pouvez travailler et faire des commit sur votre propre dépôt git !
+10. Voilà maintenant vous pouvez travailler et faire des commits sur votre propre dépôt git !
 
 <br>
 
@@ -59,7 +59,9 @@ En effet, étant donné que vous allez récupérer le projet de mon GitHub perso
 3. Il devrait vous renvoyer sur une page où vous pouvez éventuellement changer le nom du dépôt
 4. Cliquer sur `Create fork`, vous avez maintenant fait une copie de mon dépôt sur votre compte GitHub
 5. En local dans votre dossier `Projets`, ouvrir un bash git et rentrer la commande `git clone` suivi de l'URL du repository que vous venez de fork (celui sur votre compte, pas le dépôt initial que j'ai créé)
-6. Voilà maintenant vous pouvez travailler et faire des commit de votre travail !
+6. Voilà maintenant vous pouvez choisir un starter et travailler directement dedans, puis faire des commits de votre travail !
+
+> Cette méthode peut être intéressante si on veut expérimenter plusieurs starters dans le même projet.
 
 <br>
 
@@ -78,6 +80,9 @@ En effet, étant donné que vous allez récupérer le projet de mon GitHub perso
 
 > *Lien complémentaire : https://www.kitpages.fr/fr/cms/155/changement-de-remote-git*
 
+
+> Comme précédemment, cette méthode peut être intéressante si on veut expérimenter plusieurs starters dans le même projet.
+
 ## Déroulement du projet
 
 - Structurer sa page HTML
@@ -88,8 +93,8 @@ Vous avez carte blanche pour le choix des animations : faites-vous plaisir avant
 
 Pour le JS, plusieurs solutions s'offrent à vous et se fera aussi suivant la technologie que vous allez choisir : 
 - soit faire la plupart des animations en CSS et faire de l'ajout de classes CSS en JS avec `elementHTML.classList.add()`
-- soit partir sur du full JS
-- on peut envisager à un mélange des 2 solutions précédentes
+- soit partir sur du full JS en manipulant le HTML et CSS avec ce dernier
+- on peut envisager un mélange des 2 solutions précédentes
 
 Dans tous les cas, il faudra veiller à la structure du code.
 
