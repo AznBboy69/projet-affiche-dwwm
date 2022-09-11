@@ -1,14 +1,7 @@
 # Projet Affiche
 ---
 
-<style>
-    img {
-        background-color: white;
-        padding: 20px;
-        margin: 20px 0 20px 50%;
-        transform: translateX(-50%);
-    }
-</style>
+(setq markdown-xhtml-header-content"<style type='text/css'>img {background-color: white;padding: 20px;margin: 20px 0 20px 50%;transform: translateX(-50%);}</style>")
 
 <img src="logo.svg">
 
