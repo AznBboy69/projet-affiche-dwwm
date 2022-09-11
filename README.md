@@ -1,9 +1,9 @@
 # Projet Affiche
 ---
-
-(setq markdown-xhtml-header-content"<style type='text/css'>img {background-color: white;padding: 20px;margin: 20px 0 20px 50%;transform: translateX(-50%);}</style>")
-
+<br>
 <img src="logo.svg">
+<br>
+<br>
 
 ## Objectifs
 
