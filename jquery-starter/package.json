@@ -1,0 +1,19 @@
+{
+  "name": "jquery-starter",
+  "version": "1.0.0",
+  "description": "--- ## Contexte",
+  "main": "index.js",
+  "scripts": {
+    "watch-sass": "node-sass styles/scss/main.scss styles/css/main.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.6.1",
+    "node-sass": "^7.0.3"
+  },
+  "dependencies": {
+    "jquery-ui": "^1.13.2"
+  }
+}
