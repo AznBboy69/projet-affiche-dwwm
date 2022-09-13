@@ -10,14 +10,15 @@
 *::after,
 *::before {
     box-sizing: border-box;
+    display: flex;
 }
 
 body {
-    background-color: $couleur-body; /* A retirer/modifier */
+    background-color: $couleur-body;
 }
 
 .affiche-container {
-    background-color: $couleur-div; /* A retirer/modifier */
+    background-color: $couleur-div;
     width: 70vh;
     height: 100vh;
     margin: auto;
